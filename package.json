@@ -10,8 +10,8 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
-    "deploy": "npm build && gh-pages -d public/"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "deploy": "npm run build && gh-pages -d public/"
   },
   "dependencies": {
     "eslint": "^6.1.0",
