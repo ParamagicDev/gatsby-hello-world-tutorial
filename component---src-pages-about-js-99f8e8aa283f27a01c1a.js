@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{189:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(192);t.default=function(){return r.a.createElement("div",{style:{color:"teal"}},r.a.createElement(c.a,{headerText:"About Gatsby"}),r.a.createElement(c.a,{headerText:"Its pretty dope"}),r.a.createElement("p",null,"Such wow.  Very React."))}},192:function(e,t,a){"use strict";var n=a(0),r=a.n(n);t.a=function(e){return r.a.createElement("h1",null,e.headerText)}}}]);
+//# sourceMappingURL=component---src-pages-about-js-99f8e8aa283f27a01c1a.js.map
