@@ -5,5 +5,7 @@
  */
 
 module.exports = {
+  // Required for github-pages
+  pathPrefix: "/gatsby-hello-world-tutorial"
   /* Your site config here */
 }
